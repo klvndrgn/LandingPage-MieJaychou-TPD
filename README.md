@@ -7,3 +7,4 @@ Kelompok 4SIMB
 3. Handyca Yeng 2031139
 4. Mercylyawati 2031147
 5. Jenary Randa Liling 2031180
+6. Vincent Wijaya 2131127
